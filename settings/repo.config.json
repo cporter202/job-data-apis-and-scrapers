@@ -1,0 +1,11 @@
+{
+  "displayTitle": "Job Data APIs and Scrapers",
+  "tagline": "Job listings, hiring signals, salary data, employer research, and recruiting APIs.",
+  "icon": "💼",
+  "megaListSource": "https://raw.githubusercontent.com/cporter202/API-mega-list/main/jobs-apis-1149/README.md",
+  "coreclawSource": "https://raw.githubusercontent.com/cporter202/coreclaw-api-directory/main/jobs-recruiting/README.md",
+  "audience": ["Recruiters", "Job boards", "Staffing firms", "Career-tech builders", "Labor-market researchers"],
+  "useCases": ["Multi-board job search", "Hiring-signal monitoring", "Salary and skills analysis", "Employer and company research", "Recruiting and staffing dashboards"],
+  "topics": ["jobs", "recruiting", "job-board", "labor-market-data", "salary-data", "web-scraping", "apis", "apify", "coreclaw"]
+}
+
