@@ -25,8 +25,15 @@
 
 A focused directory for collecting job listings, company hiring signals, salary information, skills, employer profiles, and recruiting research data.
 
+The API lists are the main content of this repository:
+
 - [Browse Apify job APIs](catalog/README.md) — a large directory of ready-to-use actors.
 - [Browse CoreClaw jobs workers](featured/coreclaw.md) — focused workers with API and MCP access.
+
+| API list | What you will find |
+|---|---|
+| [Apify API list](catalog/README.md) | The full jobs API directory, with one entry per actor and description. |
+| [CoreClaw API list](featured/coreclaw.md) | The full jobs worker directory, with worker IDs and capabilities. |
 
 ## Featured provider paths
 
@@ -73,7 +80,7 @@ A focused directory for collecting job listings, company hiring signals, salary 
 
 ## Provider notes
 
-This repository preserves referral parameters present in the upstream catalogs where available. See [SPONSORED_PARTNERS.md](SPONSORED_PARTNERS.md) for the disclosure. A referral link is not an endorsement of fit, quality, legality, or pricing.
+This repository preserves referral parameters present in the API lists where available. See [LINKS.md](LINKS.md) for a neutral referral-link note. A referral link is not an endorsement of fit, quality, legality, or pricing.
 
 Respect job-board terms, robots rules, privacy obligations, employment-data regulations, rate limits, and restrictions on automated profiling. Do not use this directory as a substitute for legal or hiring advice.
 
