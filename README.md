@@ -13,9 +13,7 @@
 [![License](https://img.shields.io/github/license/cporter202/job-data-apis-and-scrapers?style=for-the-badge)](LICENSE)
 
 <p>
-  <a href="#featured-provider-paths"><strong>Featured Providers</strong></a> ·
-  <a href="catalog/README.md"><strong>Browse 1,149 Apify APIs</strong></a> ·
-  <a href="featured/coreclaw.md"><strong>Browse CoreClaw Workers</strong></a> ·
+  <a href="catalog/README.md"><strong>Browse API Lists</strong></a> ·
   <a href="#start-with-a-job-to-be-done"><strong>Start Building</strong></a>
 </p>
 
@@ -28,30 +26,12 @@ A focused directory for collecting job listings, company hiring signals, salary 
 The API lists are the main content of this repository:
 
 - [Browse Apify job APIs](catalog/README.md) — a large directory of ready-to-use actors.
-- [Browse CoreClaw jobs workers](featured/coreclaw.md) — focused workers with API and MCP access.
+- [Browse CoreClaw jobs APIs](catalog/coreclaw.md) — worker APIs with API and MCP access.
 
 | API list | What you will find |
 |---|---|
 | [Apify API list](catalog/README.md) | The full jobs API directory, with one entry per actor and description. |
-| [CoreClaw API list](featured/coreclaw.md) | The full jobs worker directory, with worker IDs and capabilities. |
-
-## Featured provider paths
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Apify actor catalog</h3>
-      <p>Broad coverage for job boards, employers, salary research, skills, and recruiting workflows.</p>
-      <p><a href="https://apify.com/?fpr=p2hrc6"><strong>Explore Apify with my referral →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://www.coreclaw.com/store/categories?fpr=chris69"><img src="./assets/coreclaw-banner.png" alt="CoreClaw web data workers" width="100%" /></a>
-      <h3>⚡ CoreClaw worker catalog</h3>
-      <p>Focused workers for Glassdoor, Indeed, LinkedIn, multi-board jobs, and recruiting research.</p>
-      <p><a href="https://www.coreclaw.com/store/categories?fpr=chris69"><strong>Explore CoreClaw with my referral →</strong></a></p>
-    </td>
-  </tr>
-</table>
+| [CoreClaw API list](catalog/coreclaw.md) | The full jobs API directory, with worker IDs and capabilities. |
 
 | Coverage snapshot | Current directory |
 |---|---:|
@@ -64,7 +44,7 @@ The API lists are the main content of this repository:
 | If you need to… | Start here |
 |---|---|
 | Aggregate jobs across multiple boards | [Apify catalog](catalog/README.md) |
-| Pull Glassdoor, Indeed, or LinkedIn data | [CoreClaw workers](featured/coreclaw.md) |
+| Pull Glassdoor, Indeed, or LinkedIn data | [CoreClaw API list](catalog/coreclaw.md) |
 | Normalize jobs and deduplicate listings | [Job aggregation playbook](playbooks/job-aggregation.md) |
 | Turn hiring activity into a signal | [Hiring signals playbook](playbooks/hiring-signals.md) |
 | Compare providers before building | [Provider selection checklist](playbooks/provider-selection.md) |
