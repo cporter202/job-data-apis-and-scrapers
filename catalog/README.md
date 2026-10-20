@@ -10,6 +10,7 @@
 
 | API Name | Description |
 |----------|-------------|
+| [Job Listing Extractor](https://apimesa.com) | Extract normalized JobPosting records from public job pages, career sites, and JSON-LD, including compensation and application URLs. |
 | [⚡️Rapid Linkedin Jobs Scraper](https://apify.com/worldunboxer/rapid-linkedin-scraper?fpr=p2hrc6) | LinkedIn job scraper tool to extract job listings, company, and complete job information instantly. Scrape LinkedIn jobs by keywords, city ,country, or company. Get structured data including titles,... |
 | [✅ Mass, Bulk & Batch LinkedIn Profile Scraper](https://apify.com/freecamp008/bulk-linkedin-profile-scraper?fpr=p2hrc6) | ✅✅✅ Scrape LinkedIn profiles in bulk and export emails, phone numbers, job titles, companies, skills, and full profile data to JSON, CSV, or Excel. Perfect for lead generation, sales prospecting, and... |
 | [🌱 Greenhouse Jobs Scraper](https://apify.com/skootle/greenhouse-jobs?fpr=p2hrc6) | Scrape every open job at any Greenhouse company. Title, location, departments, remote flag, comp, seniority, posted date, hiring-velocity signal, drop-into-LLM card. Watchlist mode emits only new... |
